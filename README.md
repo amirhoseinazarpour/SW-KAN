@@ -32,6 +32,7 @@ For a KAN layer mapping $\mathbf{x}^{(\ell)} \in \mathbb{R}^{n_\ell} \to \mathbf
 
 $$
 \varphi_{j,i}^{(\ell)}(x) = \sum_{n=0}^{N} c_{j,i,n}^{(\ell)}\, S_n\!\big(\phi(x);\, q_{j,i}^{(\ell)}\big)
+\varphi_{j,i}^{(\ell)}(x) = \sum_{n=0}^{N} c_{j,i,n}^{(\ell)}\, S_n\!\big(\phi(x);\, q_{j,i}^{(\ell)}\big)
 $$
 
 where:
