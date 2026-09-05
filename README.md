@@ -107,4 +107,4 @@ Both SW-KAN configurations outperform all 18 established polynomial-KAN baseline
 
 ### 2D Function Approximation
 
-A 16-neuron, degree-4 SW-KAN (389 parameters) fit three qualitatively different 2D surfaces with test MSE of $2.5\times10^{-5}$–$2.9\times10^{-5}$ (smooth targets) and $3.5\times10^{-3}$ (oscillatory target).
+A 16-neuron, degree-4 SW-KAN (389 parameters) fit three qualitatively different 2D surfaces with test MSE of $2.5\times10^{-5} – 2.9\times10^{-5}$ (smooth targets) and $3.5\times10^{-3}$ (oscillatory target).
