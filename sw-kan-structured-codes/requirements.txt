@@ -1,0 +1,6 @@
+# Tested dependency set for the notebooks
+torch
+torchvision
+numpy
+matplotlib
+plotly
